@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062021337714",
+    "project_id": "prak-10-c3b34",
+    "storage_bucket": "prak-10-c3b34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062021337714:android:f73d3752dfa9117e1028eb",
+        "android_client_info": {
+          "package_name": "com.prak10.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9YLii-VpdWScR6bYkMTna1uCbJR9zr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
